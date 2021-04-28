@@ -1,21 +1,23 @@
-html,body{font-family: "Roboto", sans-serif}
+html,body{font-family: "Roboto", sans-serif; background-color: #e0b589;} /* Colore sfondo pagina */
 
-h6 {font-family: "Roboto", sans-serif; font-size: 10pt !important; color : #000}
+h6 {font-family: "Roboto", sans-serif; font-size: 14pt !important; color : #000}
 h5 {font-family: "Roboto", sans-serif; font-size: 16pt !important; color : #000}
 h4 {font-family: "Roboto", sans-serif; font-size: 18pt !important; color : #000}
 h3 {font-family: "Roboto", sans-serif; font-size: 20pt !important; color : #000}
 h2 {font-family: "Roboto", sans-serif; font-size: 24pt !important; color : #000}
 h1 {font-family: "Roboto", sans-serif; font-size: 30pt !important; color : #000; text-align: center}
 
-li {font-family: "Roboto", sans-serif; font-size: 12pt !important; color:#CBE432}
-a{color:#000 !important; font-size: 14pt !important}
-i{color:#700CBC }
+li {font-family: "Roboto", sans-serif; font-size: 12pt !important; color:#5EA12D} /* Colore del testo dei campi elencati */
+a {color:#000 !important; font-size: 14pt !important} /* Colore del testo dei link */
+i {color:#013FE9 } /* Colore delle icone */
+footer {background-color: #CBE432;} /* Colore sfondo del footer*/
 
-.w3-theme-first-back {background-color:#700CBC !important}
-.w3-theme-first-text {color:#700CBC !important}
+.w3-theme-dark-back {background-color:#000 !important} /* Colore per lo sfondo dei pannelli scuro */
+.w3-theme-colored-back {background-color: #CBE432 !important} /* Colore per lo sfondo dei pannelli colorato */
+.w3-theme-bright-back {background-color:#FFF !important} /* Colore per lo sfondo dei pannelli chiaro */
 
-.w3-theme-second-back {background-color:#FFF !important}
-.w3-theme-second-text {color:#FFF !important}
+.w3-theme-dark-text {color:#000 !important} /* Colore per il testo scuro */
+.w3-theme-colored-text {color: #5EA12D !important} /* Colore per il testo colorato */
+.w3-theme-bright-text {color:#FFF !important} /* Colore per il testo chiaro */
 
-.w3-theme-third-back {background-color:#CBE432 !important}
-.w3-theme-third-text {color:#CBE432 !important}
+/* Colore verde acqua bello bello 00a591 */
