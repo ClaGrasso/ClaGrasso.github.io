@@ -10,10 +10,10 @@ h1 {font-family: "Roboto", sans-serif; font-size: 30pt !important; color : #000;
 li {font-family: "Roboto", sans-serif; font-size: 12pt !important; color:#5EA12D} /* Colore del testo dei campi elencati */
 a {color:#000 !important; font-size: 14pt !important} /* Colore del testo dei link */
 i {color:#013FE9 } /* Colore delle icone */
-footer {background-color: #CBE432;} /* Colore sfondo del footer*/
+footer {background-color: #e0b589;} /* Colore sfondo del footer*/
 
 .w3-theme-dark-back {background-color:#000 !important} /* Colore per lo sfondo dei pannelli scuro */
-.w3-theme-colored-back {background-color: #CBE432 !important} /* Colore per lo sfondo dei pannelli colorato */
+.w3-theme-colored-back {background-color: #e0b589 !important} /* Colore per lo sfondo dei pannelli colorato */
 .w3-theme-bright-back {background-color:#FFF !important} /* Colore per lo sfondo dei pannelli chiaro */
 
 .w3-theme-dark-text {color:#000 !important} /* Colore per il testo scuro */
